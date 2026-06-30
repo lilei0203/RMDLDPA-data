@@ -1,0 +1,385 @@
+Disease,Drug,Status
+Cystic echinococcosis,Metronidazole,Approved
+Cystic echinococcosis,Mebendazole,"Approved, Vet_approved"
+Cystic echinococcosis,Albendazole,"Approved, Vet_approved"
+Cystic echinococcosis,Benzimidazole,"Experimental, Investigational"
+Alveolar echinococcosis,Metronidazole,Approved
+Alveolar echinococcosis,Mebendazole,"Approved, Vet_approved"
+Alveolar echinococcosis,Albendazole,"Approved, Vet_approved"
+Alveolar echinococcosis,Benzimidazole,"Experimental, Investigational"
+Malaria,Albendazole,"Approved, Vet_approved"
+Malaria,Praziquantel,"Approved, Investigational, Vet_approved"
+Malaria,Doxycycline,"Approved, Investigational, Vet_approved"
+Malaria,Amoxicillin,"Approved, Vet_approved"
+Malaria,Zinc cation,"Approved, Experimental, Investigational"
+Malaria,Iodine,"Approved, Investigational"
+Malaria,Hydroxocobalamin,Approved
+Malaria,Copper,"Approved, Investigational"
+Malaria,Selenium,"Approved, Investigational, Vet_approved"
+Malaria,Ritonavir,"Approved, Investigational"
+Malaria,Lopinavir,Approved
+Malaria,Ibuprofen,Approved
+Malaria,Ferrous fumarate,Approved
+Malaria,Morphine,"Approved, Investigational"
+Malaria,Promethazine,"Approved, Investigational"
+Malaria,Diphenhydramine,"Approved, Investigational"
+Malaria,Piperaquine,"Approved, Experimental, Investigational"
+Malaria,Artenimol,"Approved, Experimental, Investigational"
+Malaria,Efavirenz,"Approved, Investigational"
+Malaria,Dolutegravir,Approved
+Malaria,Tafenoquine,"Approved, Investigational"
+Malaria,Hydroxychloroquine,Approved
+Malaria,Lumefantrine,Approved
+Malaria,Artemether,Approved
+Malaria,Nevirapine,Approved
+Malaria,BCG vaccine,"Approved, Investigational"
+Malaria,Lactitol,"Approved, Investigational"
+Malaria,Vitamin A,"Approved, Nutraceutical, Vet_approved"
+Malaria,DL-alpha-Tocopherol,"Approved, Experimental, Investigational, Nutraceutical, Vet_approved"
+Malaria,Tocopherol,"Approved, Investigational, Nutraceutical"
+Malaria,Niacin,"Approved, Investigational, Nutraceutical"
+Malaria,Nicotinamide,"Approved, Investigational, Nutraceutical"
+Malaria,Cholecalciferol,"Approved, Nutraceutical, Vet_approved"
+Malaria,Cyanocobalamin,"Approved, Nutraceutical"
+Malaria,Ascorbic acid,"Approved, Nutraceutical"
+Malaria,Mecobalamin,"Approved, Investigational, Nutraceutical"
+Malaria,Riboflavin,"Approved, Investigational, Nutraceutical, Vet_approved"
+Malaria,Pyridoxine,"Approved, Investigational, Nutraceutical, Vet_approved"
+Malaria,Thiamine,"Approved, Investigational, Nutraceutical, Vet_approved"
+Malaria,Cadexomer iodine,Experimental
+Malaria,Chlorproguanil,Investigational
+Malaria,Methaqualone,"Illicit, Withdrawn"
+Malaria,Tocotrienol,"Investigational, Nutraceutical"
+Malaria,Vitamin B1,Nutraceutical
+Malaria,Vitamin B2,Nutraceutical
+Malaria,Vitamin B3,Nutraceutical
+Malaria,Vitamin B6,Nutraceutical
+Malaria,Calciferol,Nutraceutical
+Malaria,Cobalamin,"Experimental, Nutraceutical"
+Malaria,Copper Supplement,Nutraceutical
+Malaria,Pyridoxal,"Experimental, Nutraceutical"
+Malaria,Thiamin,Nutraceutical
+Malaria,Iron Supplement,Nutraceutical
+Malaria,Date Palm,Nutraceutical
+Malaria,Quinidine,"Approved, Investigational"
+Malaria,Zinc sulfate,"Approved, Investigational"
+Malaria,Metronidazole,Approved
+Malaria,Hydroxyurea,Approved
+Malaria,Pentetic acid,Approved
+Malaria,Edetate calcium disodium anhydrous,"Approved, Vet_approved"
+Malaria,Zidovudine,Approved
+Malaria,Lamivudine,"Approved, Investigational"
+Malaria,Abacavir,"Approved, Investigational"
+Malaria,Stavudine,"Approved, Investigational"
+Malaria,Acetaminophen,Approved
+Malaria,Ivermectin,"Approved, Investigational, Vet_approved"
+Malaria,Sulfamethoxazole,Approved
+Malaria,Trimethoprim,"Approved, Vet_approved"
+Malaria,Phylloquinone,"Approved, Investigational, Nutraceutical"
+Malaria,Menadione,"Approved, Nutraceutical"
+Malaria,Orange,"Approved, Nutraceutical"
+Malaria,Prasterone,"Approved, Investigational, Nutraceutical"
+Malaria,Pyronaridine,Investigational
+Malaria,Imidacloprid,Vet_approved
+Malaria,Trichostatin A,Experimental
+Malaria,Vitamin K,Nutraceutical
+Malaria,Naphthoquinone,Nutraceutical
+Malaria,Menaquinone,"Investigational, Nutraceutical"
+Malaria,Sunflower,Nutraceutical
+Malaria,DHEA (Dehydroepiandrosterone),Nutraceutical
+Malaria,Ganciclovir,"Approved, Investigational"
+Malaria,Cobicistat,Approved
+Malaria,Aluminum hydroxide,"Approved, Investigational"
+Malaria,Rosiglitazone,"Approved, Investigational"
+Malaria,"Heparin, bovine","Approved, Investigational, Withdrawn"
+Malaria,Nitric Oxide,Approved
+Malaria,Levetiracetam,Approved
+Malaria,Tinidazole,"Approved, Investigational"
+Malaria,Phenobarbital,"Approved, Investigational"
+Malaria,Benzocaine,"Approved, Investigational"
+Malaria,Rifampicin,Approved
+Malaria,Isoniazid,"Approved, Investigational"
+Malaria,Pentoxifylline,"Approved, Investigational"
+Malaria,Arginine,"Approved, Investigational, Nutraceutical"
+Malaria,Tannic acid,"Approved, Nutraceutical"
+Malaria,Pafuramidine,Investigational
+Malaria,Phenothiazine,"Experimental, Vet_approved"
+Malaria,Meplazumab,Investigational
+Malaria,Artefenomel,Investigational
+Malaria,Histidine,"Investigational, Nutraceutical"
+Malaria,Serine,"Investigational, Nutraceutical"
+Malaria,Bitter Melon,Nutraceutical
+Malaria,Tea,Nutraceutical
+Malaria,Moxifloxacin,"Approved, Investigational"
+Malaria,Itraconazole,"Approved, Investigational"
+Malaria,Midazolam,"Approved, Illicit"
+Malaria,Guaifenesin,"Approved, Investigational, Vet_approved"
+Malaria,Cathine,"Approved, Experimental, Illicit, Vet_approved, Withdrawn"
+Malaria,Repaglinide,"Approved, Investigational"
+Malaria,Dextromethorphan,Approved
+Malaria,Metformin,Approved
+Malaria,Metoprolol,"Approved, Investigational"
+Malaria,Methotrexate,Approved
+Malaria,Etidronic acid,Approved
+Malaria,Ethanol,Approved
+Malaria,Framycetin,"Approved, Experimental, Vet_approved"
+Malaria,Ethinylestradiol,Approved
+Malaria,Norgestimate,"Approved, Investigational"
+Malaria,Polyestradiol phosphate,Approved
+Malaria,Estradiol,"Approved, Investigational, Vet_approved"
+Malaria,Sorbitol,"Approved, Investigational"
+Malaria,Aluminium phosphate,"Approved, Investigational"
+Malaria,Altretamine,Approved
+Malaria,Brewer's Yeast,Nutraceutical
+Malaria,Mebendazole,"Approved, Vet_approved"
+Malaria,Permethrin,"Approved, Investigational"
+Malaria,Moxidectin,"Approved, Investigational, Vet_approved"
+Malaria,Levofloxacin,"Approved, Investigational"
+Malaria,Ofloxacin,Approved
+Malaria,Vancomycin,Approved
+Malaria,Meropenem,"Approved, Investigational"
+Malaria,Imiquimod,"Approved, Investigational"
+Malaria,Tioguanine,Approved
+Malaria,Iron,Approved
+Malaria,Dapsone,"Approved, Investigational"
+Malaria,Caffeine,"Approved, Nutraceutical"
+Malaria,Hops,"Approved, Nutraceutical"
+Malaria,Acetic acid,"Approved, Nutraceutical"
+Malaria,D-Phenylalanine,"Approved, Experimental, Investigational, Nutraceutical"
+Malaria,Furazolidone,"Experimental, Vet_approved"
+Malaria,Zuretinol acetate,Investigational
+Malaria,Milbemycin oxime,Vet_approved
+Malaria,Soy Bean,Nutraceutical
+Malaria,Spirulina,Nutraceutical
+Malaria,Zinc Supplement,Nutraceutical
+Schistosomiasis,Albendazole,"Approved, Vet_approved"
+Schistosomiasis,Mefloquine,"Approved, Investigational"
+Schistosomiasis,Artesunate,"Approved, Investigational"
+Schistosomiasis,Selexipag,Approved
+Schistosomiasis,Epoprostenol,Approved
+Schistosomiasis,Sulfadoxine,"Approved, Investigational"
+Schistosomiasis,Pyrimethamine,"Approved, Investigational, Vet_approved"
+Schistosomiasis,Lumefantrine,Approved
+Schistosomiasis,Artemether,Approved
+Schistosomiasis,Aluminum hydroxide,"Approved, Investigational"
+Schistosomiasis,Tezosentan,Investigational
+Schistosomiasis,Pyronaridine,Investigational
+Schistosomiasis,Artefenomel,Investigational
+Schistosomiasis,Imidazole,"Experimental, Investigational"
+Schistosomiasis,Aluminum sulfate,Approved
+Schistosomiasis,Sodium citrate,"Approved, Investigational"
+Schistosomiasis,Formaldehyde,"Approved, Vet_approved"
+Schistosomiasis,Iron,Approved
+Schistosomiasis,Ethanolamine oleate,Approved
+Schistosomiasis,Azithromycin,Approved
+Schistosomiasis,Metronidazole,Approved
+Schistosomiasis,Doxycycline,"Approved, Investigational, Vet_approved"
+Schistosomiasis,Cefuroxime,Approved
+Schistosomiasis,Ciprofloxacin,"Approved, Investigational"
+Schistosomiasis,Zinc cation,"Approved, Experimental, Investigational"
+Schistosomiasis,Amodiaquine,"Approved, Investigational"
+Schistosomiasis,Ascorbic acid,"Approved, Nutraceutical"
+Schistosomiasis,Mango,"Approved, Nutraceutical"
+Schistosomiasis,Citric acid,"Approved, Nutraceutical, Vet_approved"
+Schistosomiasis,Vitamin A,"Approved, Nutraceutical, Vet_approved"
+Schistosomiasis,Folic acid,"Approved, Nutraceutical, Vet_approved"
+Schistosomiasis,Levoleucovorin,"Approved, Experimental, Investigational, Nutraceutical"
+Schistosomiasis,Trichostatin A,Experimental
+Schistosomiasis,Diethyl ether,Experimental
+Schistosomiasis,Date Palm,Nutraceutical
+Schistosomiasis,Citrate,Nutraceutical
+Schistosomiasis,Arachidonic Acid,"Experimental, Nutraceutical"
+Schistosomiasis,Soy Bean,Nutraceutical
+Schistosomiasis,Iron Supplement,Nutraceutical
+Schistosomiasis,Vitamin B9,Nutraceutical
+Schistosomiasis,Folate,Nutraceutical
+Trichuriasis,Mebendazole,"Approved, Vet_approved"
+Trichuriasis,Piperazine,"Approved, Vet_approved"
+Trichuriasis,Pyrantel,"Approved, Vet_approved"
+Trichuriasis,Sodium citrate,"Approved, Investigational"
+Trichuriasis,Levamisole,"Approved, Investigational, Vet_approved, Withdrawn"
+Trichuriasis,Citric acid,"Approved, Nutraceutical, Vet_approved"
+Trichuriasis,Oxantel,Experimental
+Trichuriasis,DMP-777,Investigational
+Trichuriasis,Citrate,Nutraceutical
+Trichuriasis,Moxidectin,"Approved, Investigational, Vet_approved"
+Trichuriasis,Albendazole,"Approved, Vet_approved"
+Trichuriasis,Ivermectin,"Approved, Investigational, Vet_approved"
+Trichuriasis,Emodepside,"Investigational, Vet_approved"
+Trichuriasis,Fenbendazole,Vet_approved
+Trichuriasis,Benzimidazole,"Experimental, Investigational"
+Elephantiasis,Glycerin,"Approved, Investigational"
+Elephantiasis,Petrolatum,"Approved, Investigational"
+Elephantiasis,Doxycycline,"Approved, Investigational, Vet_approved"
+Elephantiasis,Piperaquine,"Approved, Experimental, Investigational"
+Elephantiasis,Artenimol,"Approved, Experimental, Investigational"
+Elephantiasis,Diethylcarbamazine,"Approved, Investigational, Vet_approved"
+Elephantiasis,Moxidectin,"Approved, Investigational, Vet_approved"
+Elephantiasis,Sodium citrate,"Approved, Investigational"
+Elephantiasis,Citric acid,"Approved, Nutraceutical, Vet_approved"
+Elephantiasis,Citrate,Nutraceutical
+Elephantiasis,Mebendazole,"Approved, Vet_approved"
+Elephantiasis,Piperazine,"Approved, Vet_approved"
+Elephantiasis,Permethrin,"Approved, Investigational"
+Elephantiasis,DMP-777,Investigational
+Elephantiasis,Calcium,Nutraceutical
+Onchocerciasis,Ivermectin,"Approved, Investigational, Vet_approved"
+Onchocerciasis,Moxidectin,"Approved, Investigational, Vet_approved"
+Onchocerciasis,Albendazole,"Approved, Vet_approved"
+Onchocerciasis,Azithromycin,Approved
+Onchocerciasis,Rifampicin,Approved
+Onchocerciasis,Levamisole,"Approved, Investigational, Vet_approved, Withdrawn"
+Onchocerciasis,Romidepsin,"Approved, Investigational"
+Onchocerciasis,Diethylcarbamazine,"Approved, Investigational, Vet_approved"
+Onchocerciasis,Emodepside,"Investigational, Vet_approved"
+Onchocerciasis,Mebendazole,"Approved, Vet_approved"
+Onchocerciasis,Piperazine,"Approved, Vet_approved"
+Onchocerciasis,Sodium citrate,"Approved, Investigational"
+Onchocerciasis,Citric acid,"Approved, Nutraceutical, Vet_approved"
+Onchocerciasis,DMP-777,Investigational
+Onchocerciasis,Calcium,Nutraceutical
+Onchocerciasis,Citrate,Nutraceutical
+Cysticercosis,Acetazolamide,"Approved, Vet_approved"
+Cysticercosis,Praziquantel,"Approved, Investigational, Vet_approved"
+Cysticercosis,Benzocaine,"Approved, Investigational"
+Cysticercosis,Tannic acid,"Approved, Nutraceutical"
+Cysticercosis,Benzimidazole,"Experimental, Investigational"
+Cysticercosis,Phenytoin,"Approved, Vet_approved"
+Ancylostomiasis,Albendazole,"Approved, Vet_approved"
+Ancylostomiasis,Pyrantel,"Approved, Vet_approved"
+Ancylostomiasis,Oxantel,Experimental
+Ancylostomiasis,Moxidectin,"Approved, Investigational, Vet_approved"
+Ancylostomiasis,Ivermectin,"Approved, Investigational, Vet_approved"
+Ancylostomiasis,Emodepside,"Investigational, Vet_approved"
+Ancylostomiasis,Iron,Approved
+Ancylostomiasis,Aluminum hydroxide,"Approved, Investigational"
+Ancylostomiasis,Imidazole,"Experimental, Investigational"
+Visceral leishmaniasis,Paromomycin,"Approved, Investigational"
+Visceral leishmaniasis,Amphotericin B,"Approved, Investigational"
+Visceral leishmaniasis,Deoxycholic acid,Approved
+Visceral leishmaniasis,Meglumine antimoniate,"Experimental, Investigational"
+Visceral leishmaniasis,Miltefosine,"Approved, Investigational"
+Visceral leishmaniasis,Pentamidine,"Approved, Investigational"
+Visceral leishmaniasis,DL-alpha-Tocopherol,"Approved, Experimental, Investigational, Nutraceutical, Vet_approved"
+Visceral leishmaniasis,Tocopherol,"Approved, Investigational, Nutraceutical"
+Visceral leishmaniasis,Tocotrienol,"Investigational, Nutraceutical"
+Visceral leishmaniasis,Soy Bean,Nutraceutical
+Visceral leishmaniasis,Acetylcysteine,"Approved, Investigational"
+Visceral leishmaniasis,Framycetin,"Approved, Experimental, Vet_approved"
+Visceral leishmaniasis,Erythromycin,"Approved, Investigational, Vet_approved"
+Visceral leishmaniasis,Coal tar,Approved
+Visceral leishmaniasis,Zinc cation,"Approved, Experimental, Investigational"
+Visceral leishmaniasis,Albendazole,"Approved, Vet_approved"
+Visceral leishmaniasis,Iron,Approved
+Visceral leishmaniasis,Vitamin A,"Approved, Nutraceutical, Vet_approved"
+Cutaneous Leishmaniasis,Miltefosine,"Approved, Investigational"
+Cutaneous Leishmaniasis,Lidocaine,"Approved, Vet_approved"
+Cutaneous Leishmaniasis,Pentoxifylline,"Approved, Investigational"
+Cutaneous Leishmaniasis,Carbamide peroxide,Approved
+Cutaneous Leishmaniasis,Paromomycin,"Approved, Investigational"
+Cutaneous Leishmaniasis,Imiquimod,"Approved, Investigational"
+Cutaneous Leishmaniasis,Sargramostim,"Approved, Investigational"
+Cutaneous Leishmaniasis,Voriconazole,Approved
+Cutaneous Leishmaniasis,Doxycycline,"Approved, Investigational, Vet_approved"
+Cutaneous Leishmaniasis,Tofacitinib,"Approved, Investigational"
+Cutaneous Leishmaniasis,Fluconazole,"Approved, Investigational"
+Cutaneous Leishmaniasis,Nitric Oxide,Approved
+Cutaneous Leishmaniasis,Azithromycin,Approved
+Cutaneous Leishmaniasis,Molgramostim,Investigational
+Cutaneous Leishmaniasis,Meglumine antimoniate,"Experimental, Investigational"
+Cutaneous Leishmaniasis,Amphotericin B,"Approved, Investigational"
+Cutaneous Leishmaniasis,Allopurinol,Approved
+Cutaneous Leishmaniasis,Aluminum hydroxide,"Approved, Investigational"
+Cutaneous Leishmaniasis,Aluminum sulfate,Approved
+Cutaneous Leishmaniasis,Arnica,Nutraceutical
+Cutaneous Leishmaniasis,Pentamidine,"Approved, Investigational"
+Cutaneous Leishmaniasis,Ethanol,Approved
+Cutaneous Leishmaniasis,Date Palm,Nutraceutical
+Mucocutaneous Leishmaniasis,Paromomycin,"Approved, Investigational"
+Mucocutaneous Leishmaniasis,Amphotericin B,"Approved, Investigational"
+Mucocutaneous Leishmaniasis,Pentoxifylline,"Approved, Investigational"
+Mucocutaneous Leishmaniasis,Miltefosine,"Approved, Investigational"
+Mucocutaneous Leishmaniasis,Tofacitinib,"Approved, Investigational"
+Mucocutaneous Leishmaniasis,Meglumine antimoniate,"Experimental, Investigational"
+Mucocutaneous Leishmaniasis,Coal tar,Approved
+Trypanosomiasis,Nifurtimox,"Approved, Investigational"
+Trypanosomiasis,Eflornithine,"Approved, Withdrawn"
+Trypanosomiasis,Ornithine,"Approved, Nutraceutical"
+Trypanosomiasis,Melarsoprol,Investigational
+Trypanosomiasis,Pentamidine,"Approved, Investigational"
+Trypanosomiasis,Pafuramidine,Investigational
+Trypanosomiasis,Maleic acid,"Experimental, Investigational"
+Trypanosomiasis,Midazolam,"Approved, Illicit"
+Trypanosomiasis,Guaifenesin,"Approved, Investigational, Vet_approved"
+Trypanosomiasis,Cathine,"Approved, Experimental, Illicit, Vet_approved, Withdrawn"
+Trypanosomiasis,Dextromethorphan,Approved
+Trypanosomiasis,Suramin,Investigational
+Trypanosomiasis,Date Palm,Nutraceutical
+Chagas Disease,Warfarin,Approved
+Chagas Disease,Acetylsalicylic acid,"Approved, Vet_approved"
+Chagas Disease,Enalapril,"Approved, Vet_approved"
+Chagas Disease,Enalaprilat,Approved
+Chagas Disease,Angiotensin II,"Approved, Investigational"
+Chagas Disease,Valsartan,"Approved, Investigational"
+Chagas Disease,Selenium,"Approved, Investigational, Vet_approved"
+Chagas Disease,Colchicine,Approved
+Chagas Disease,Posaconazole,"Approved, Investigational, Vet_approved"
+Chagas Disease,Atorvastatin,Approved
+Chagas Disease,Nifurtimox,"Approved, Investigational"
+Chagas Disease,Oxymetazoline,"Approved, Investigational"
+Chagas Disease,Phenylephrine,Approved
+Chagas Disease,Amiodarone,"Approved, Investigational"
+Trichinosis,Thiabendazole,Inferred drug relations via?UMLS?71?/?NDF-RT?50?:
+Ascariasis,Mebendazole,"Approved, Vet_approved"
+Ascariasis,Piperazine,"Approved, Vet_approved"
+Ascariasis,Sodium citrate,"Approved, Investigational"
+Ascariasis,Albendazole,"Approved, Vet_approved"
+Ascariasis,Levamisole,"Approved, Investigational, Vet_approved, Withdrawn"
+Ascariasis,Pyrantel,"Approved, Vet_approved"
+Ascariasis,Citric acid,"Approved, Nutraceutical, Vet_approved"
+Ascariasis,DMP-777,Investigational
+Ascariasis,Citrate,Nutraceutical
+Ascariasis,Moxidectin,"Approved, Investigational, Vet_approved"
+Ascariasis,Ivermectin,"Approved, Investigational, Vet_approved"
+Ascariasis,Ascorbic acid,"Approved, Nutraceutical"
+Toxocariasis,Albendazole,"Approved, Vet_approved"
+Fascioliasis,Triclabendazole,"Approved, Investigational"
+Amebiasis,Mebendazole,"Approved, Vet_approved"
+Amebiasis,Piperazine,"Approved, Vet_approved"
+Amebiasis,Sodium citrate,"Approved, Investigational"
+Amebiasis,Citric acid,"Approved, Nutraceutical, Vet_approved"
+Amebiasis,DMP-777,Investigational
+Amebiasis,Citrate,Nutraceutical
+Amebiasis,Nitazoxanide,"Approved, Investigational, Vet_approved"
+Amebiasis,Auranofin,"Approved, Investigational"
+Amebiasis,Formaldehyde,"Approved, Vet_approved"
+Amebiasis,Diethyl ether,Experimental
+Giardiasis,Metronidazole,Approved
+Giardiasis,Tinidazole,"Approved, Investigational"
+Strongyloidiasis,Moxidectin,"Approved, Investigational, Vet_approved"
+Strongyloidiasis,Azithromycin,Approved
+Strongyloidiasis,Diethylcarbamazine,"Approved, Investigational, Vet_approved"
+Strongyloidiasis,Albendazole,"Approved, Vet_approved"
+Strongyloidiasis,Piperaquine,"Approved, Experimental, Investigational"
+Strongyloidiasis,Artenimol,"Approved, Experimental, Investigational"
+Strongyloidiasis,Ivermectin,"Approved, Investigational, Vet_approved"
+Strongyloidiasis,Formaldehyde,"Approved, Vet_approved"
+Strongyloidiasis,Diethyl ether,Experimental
+Filariasis,Doxycycline,"Approved, Investigational, Vet_approved"
+Filariasis,Piperaquine,"Approved, Experimental, Investigational"
+Filariasis,Artenimol,"Approved, Experimental, Investigational"
+Filariasis,Diethylcarbamazine,"Approved, Investigational, Vet_approved"
+Filariasis,Moxidectin,"Approved, Investigational, Vet_approved"
+Filariasis,Sodium citrate,"Approved, Investigational"
+Filariasis,Citric acid,"Approved, Nutraceutical, Vet_approved"
+Filariasis,Citrate,Nutraceutical
+Filariasis,Praziquantel,"Approved, Investigational, Vet_approved"
+Filariasis,Emodepside,"Investigational, Vet_approved"
+Filariasis,Benzimidazole,"Experimental, Investigational"
+Filariasis,Oxfendazole,"Investigational, Vet_approved"
+Filariasis,Mebendazole,"Approved, Vet_approved"
+Filariasis,Piperazine,"Approved, Vet_approved"
+Filariasis,Permethrin,"Approved, Investigational"
+Filariasis,DMP-777,Investigational
+Filariasis,Calcium,Nutraceutical
+clonorchiasis,Albendazole,Inferred drug relations via?UMLS?71?/?NDF-RT?50?:
